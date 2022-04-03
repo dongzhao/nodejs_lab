@@ -3,9 +3,9 @@ Nodejs, Express plus ASP.NET
 ## Dev Setup
 1. download and install node(it includes NPM) from http://nodejs.org/
 
-## Enble IIS feature on windows
-1. go to Control panel.
-2. open 'Programs and Features'
-3. Click 'Turn Windows feature on and off'
-4. Tick 'Internet Information Services'
-5. Click OK to install IIS
+## Publish to folder 
+1. To to project -> publish 
+2. Select folder
+3. ater published, copy published folder and files over 
+4. Run node app.js to start Node.js webapp 
+
